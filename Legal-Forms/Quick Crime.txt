@@ -1,55 +1,55 @@
-# Quick Crime Guide
 [color=#134975]█▄ █ ▀█▀    [head=3]NT Justice Department[/head]
-█ ▀█     █        Quick Crime Sentencing Memo[/color]
+█ ▀██    Quick Crime Sentencing Memo[/color]
 ───────────────────────────────────
 [head=2][bold]Subject:[/bold] NAME[/head]
+───────────────────────────────────
+[head=3][bold]ALL SECOND OFFENSES ARE RECOMENDED TO BE INCREASED BY 1.5 TIMES AND THIRD BY 2.5 TIMES.(This is pertaining to the same crime offenses and not consecutive arrests)[/bold][/head]
+───────────────────────────────────
+[head=4][bold]Write the number of times the crime has been commited in the box next to it or mark it with X if it was the first offense.[/bold][/head]
 ……………………………………………………………………………………………
 [head=2][color=#4D2E2E][bold]Violent Crime[/color][/bold][/head]
-[bullet]1-00 \[  ] Animal Cruelty (<5 mins)
-[bullet]3-05 \[  ] Assault (10 mins)
-   └ 3-06 \[  ] Manslaughter (10 mins)
-[bullet]4-05 \[  ] Attempted Murder (10 mins)
-   └ 4-06 \[  ] Murder (15 mins)
-[bullet]5-05 \[  ] Prevention of Revival (Capital)
-   └ 5-06 \[  ] Mass Murder (Capital)
-……………………………………………………………………………………………
+[bullet]1-01 \[  ] Animal Cruelty (2-5 mins)
+[bullet]2-01 \[  ] Assault (<3 mins)
+   └ 2-01 \[  ] Battery (1-3 mins) 
+   └ 2-02 \[  ] Manslaughter (4-10 mins)
+   └ 2-03 \[  ] Murder (4-10 mins)
+[bullet]3-01 \[  ] Prevention of Revival (Capital)
+   └ 3-02 \[  ] Mass Murder (Capital)
+……………………………………………………………………………………………sx
 [head=2][color=#2E422E][bold]Property Crime[/color][/bold][/head]
-[bullet]1-01 \[  ] Possession: Minor (<5 mins)
-   └ 2-01 \[  ] Possession: Major (5 mins)
-       └ 3-01 \[  ] Possession: Syndicate (10 mins)
-[bullet]1-02 \[  ] Theft (<5 mins)
-[bullet]3-02 \[  ] Grand Theft (10 mins)
+[bullet]1-01 \[  ] Possession:Syndicate/restricted gear (<5 mins)
+[bullet]2-01 \[  ] Possession/use of illegal drugs(<3 mins)
+[bullet]3-01 \[  ] Possession of Restricted Weaponry(3-6 mins)
+[bullet]4-01 \[  ] Petty Theft (1-3 mins)
+[bullet]5-01 \[  ] Grand Theft (3-6 mins)
 ……………………………………………………………………………………………
 [head=2][color=#453A59][bold]Property Damage[/color][/bold][/head]
-[bullet]2-03 \[  ] Destruction of Property (5 mins)
-[bullet]3-03 \[  ] Mass Destruction (10 mins)
+[bullet]2-03 \[  ] Destruction of Property (2-4 mins)
+[bullet]3-03 \[  ] Mass Destruction (10-15 mins)
 [bullet]5-03 \[  ] Terrorism (Capital)
 ……………………………………………………………………………………………
 [head=2][color=#641327][bold]Risk to others[/color][/bold][/head]
-[bullet]2-05 \[  ] Endangerment (5 mins)
-[bullet]4-02 \[  ] Kidnapping (15 mins)
+[bullet]2-05 \[  ] Endangerment (2-4 mins)
+[bullet]2-05 \[  ] Capital Negligence (Demotion-Perma)
+[bullet]4-02 \[  ] Kidnapping (4-10 mins)
 ……………………………………………………………………………………………
 [head=2][color=#59563A][bold]Access Crime[/color][/bold][/head]
-[bullet]1-04 \[  ] Trespass (<5 min)
-[bullet]3-04 \[  ] Breaking and Entering (10 min)
+[bullet]1-04 \[  ] Trespass (<2 min)
+[bullet]1-04 \[  ] Secure Trespass (3-8 min)
 ……………………………………………………………………………………………
-[head=2][color=#3B4354][bold]Protest Crime[/color][/bold][/head]
-[bullet]1-03 \[  ] Vandalism (<5 mins)
-[bullet]1-07 \[  ] Disturbance (<5 mins)
-[bullet]3-07 \[  ] Rioting (10 min)
+[head=2][color=#3B4354][bold]Distrubance Crime[/color][/bold][/head]
+[bullet]1-03 \[  ] Vandalism (<2 mins)
+[bullet]1-07 \[  ] Disturbance (<2 mins)
+[bullet]3-07 \[  ] Rioting (2-4 min)
+[bullet]3-07 \[  ] Fraud (2-5 min)
+[bullet]3-07 \[  ] Grand Fraud (5-15 min)
 ……………………………………………………………………………………………
 [head=2][color=#593A4E][bold]Disobedience[/color][/bold][/head]
-[bullet]2-00 \[  ] Failure to Comply (5 mins)
-[bullet]3-00 \[  ] Breach of Arrest (10 mins)
-[bullet]4-00 \[  ] Breach of Custody (15 mins)
-[bullet]5-00 \[  ] Refusal of Mental Shielding (Capital)
+[bullet]2-00 \[  ] Failure to Comply (<2 mins)
+[bullet]3-00 \[  ] Breach of Arrest (2-4 mins)
+[bullet]4-00 \[  ] Breach of Custody (2-5 mins)
+[bullet]5-00 \[  ] Refusal of Mental Shielding (Perma)
 
 ─────────────────────────────────────────
 [color=#134975][head=2]Total Time:
 [bold]XX mins[/bold][/head][/color]
-
-[italic][color=#aaaaaa]All times are maximum but not recommended sentences.
-Nested crimes do not stack, only use most sever offence.
-Give more leniency for first time offences and compliance. [/color][/italic]
-
-
